@@ -8,7 +8,8 @@
 
 ## Q2. What would you do in case you face or witness any incident or repeated incidents of such behaviour?
 <br>
-**If i am the victim**<br>
+**If i am the victim**
+<br>
 1. Talk to a friend, family member, or colleague who understands the situation. Emotional support can be crucial.<br>
 2. Clearly and firmly communicate to the harasser that their behavior is unwelcome and unacceptable.<br>
 3. Report the incidents to the appropriate authority, such as a  human resources, school administration, or law enforcement, depending on the context.
