@@ -4,7 +4,7 @@ Caching is the process of storing data in a cache, which is a temporary storage 
 <br><br>
 
 ## Types of Caching.
-<br>
+
 **Web Caching**<br>
 * Browser caching : Web browsers store copies of web pages, images, and other resources locally to reduce load times on subsequent visits.
 The web server collects information from the website and passes it to the web browser. Caching is done depending on whether the user is a first-time visitor or has used the site before.<br>
@@ -18,9 +18,9 @@ The web server collects information from the website and passes it to the web br
 
 ## Sources
 <br>
-1. Wikipedia<br>
-2. Stackoverflow<br>
-3. TutorialsPoint <br>
+1. Wikipedia : https://en.wikipedia.org/wiki/Cache_(computing)<br>
+2. Stackoverflow : https://stackoverflow.com/questions/548301/what-is-caching<br>
+3. TutorialsPoint : https://www.tutorialspoint.com/What-is-caching<br>
 
 
 
